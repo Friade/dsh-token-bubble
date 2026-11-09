@@ -1,0 +1,7 @@
+url: https://github.com/Friade/dsh-token-bubble
+name: Friade/dsh-token-bubble
+category: usage
+description:
+  en: 'A draggable token counter in the corner of the DSH GUI: it sums cached input, output and cache read/write tokens of every session across all workspaces, and expands into a per-session list.'
+  zh: 'DSH 界面角上一颗可拖动的 token 计数器：把所有工作区每个会话的输入、输出与缓存读写 token 相加，点开可看会话级明细。'
+icon: https://raw.githubusercontent.com/Friade/dsh-token-bubble/main/assets/icon-180.png
