@@ -1,0 +1,6 @@
+# dsh-token-bubble —— DSH bundle patch
+# 把插件挂进 Web profile 的配置树：宿主半边加载 lib/index.js，
+# 浏览器半边由宿主路由 /dsh-token-bubble/widget.js 提供并注入页面。
+- insert:
+    - id: dsh-token-bubble
+      name: dsh-token-bubble
